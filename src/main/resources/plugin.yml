@@ -1,0 +1,8 @@
+main: dev.wiisportsresorts.doubleslabs.DoubleSlabs
+name: DoubleSlabs
+prefix: DoubleSlabs
+version: 1.0-SNAPSHOT
+api-version: 1.16
+description: Break only the target slab in a double slab
+author: wiisportsresorts
+website: github.com/wiisportsresort/doubleslabs
